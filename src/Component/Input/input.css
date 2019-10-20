@@ -1,0 +1,9 @@
+.wrong {
+    border: 3px solid red;
+    outline:none;
+}
+
+.true {
+    border: 3px solid green;
+    outline:none;
+}
